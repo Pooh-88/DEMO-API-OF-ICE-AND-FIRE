@@ -1,0 +1,132 @@
+[
+	{
+		"url": "https://anapioficeandfire.com/api/characters/1",
+		"name": "Jon Snow",
+		"gender": "Male",
+		"culture": "Northmen",
+		"born": "In 283 AC",
+		"died": "",
+		"titles": [
+		],
+		"aliases": [
+		],
+		"father": "",
+		"mother": "",
+		"spouse": "",
+		"allegiances": [
+		],
+		"books": [
+		],
+		"povBooks": [
+		],
+		"tvSeries": [
+		],
+		"playedBy": [
+			"Kit Harington"
+		]
+	},
+	{
+		"url": "https://anapioficeandfire.com/api/characters/2",
+		"name": "Jon Snow",
+		"gender": "Male",
+		"culture": "Northmen",
+		"born": "In 283 AC",
+		"died": "",
+		"titles": [
+		],
+		"aliases": [
+		],
+		"father": "",
+		"mother": "",
+		"spouse": "",
+		"allegiances": [
+		],
+		"books": [
+		],
+		"povBooks": [
+		],
+		"tvSeries": [
+		],
+		"playedBy": [
+			"Kit Harington"
+		]
+	},
+	{
+		"url": "https://anapioficeandfire.com/api/characters/3",
+		"name": "Jon Snow",
+		"gender": "Male",
+		"culture": "Northmen",
+		"born": "In 283 AC",
+		"died": "",
+		"titles": [
+		],
+		"aliases": [
+		],
+		"father": "",
+		"mother": "",
+		"spouse": "",
+		"allegiances": [
+		],
+		"books": [
+		],
+		"povBooks": [
+		],
+		"tvSeries": [
+		],
+		"playedBy": [
+			"Kit Harington"
+		]
+	},
+	{
+		"url": "https://anapioficeandfire.com/api/characters/4",
+		"name": "Jon Snow",
+		"gender": "Male",
+		"culture": "Northmen",
+		"born": "In 283 AC",
+		"died": "",
+		"titles": [
+		],
+		"aliases": [
+		],
+		"father": "",
+		"mother": "",
+		"spouse": "",
+		"allegiances": [
+		],
+		"books": [
+		],
+		"povBooks": [
+		],
+		"tvSeries": [
+		],
+		"playedBy": [
+			"Kit Harington"
+		]
+	},
+	{
+		"url": "https://anapioficeandfire.com/api/characters/5",
+		"name": "Jon Snow",
+		"gender": "Male",
+		"culture": "Northmen",
+		"born": "In 283 AC",
+		"died": "",
+		"titles": [
+		],
+		"aliases": [
+		],
+		"father": "",
+		"mother": "",
+		"spouse": "",
+		"allegiances": [
+		],
+		"books": [
+		],
+		"povBooks": [
+		],
+		"tvSeries": [
+		],
+		"playedBy": [
+			"Kit Harington"
+		]
+	}
+]
